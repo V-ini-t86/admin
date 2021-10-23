@@ -1,0 +1,7 @@
+.list {
+  margin-top: 10px;
+}
+.list-heading {
+  display: flex;
+  justify-content: space-between;
+}
